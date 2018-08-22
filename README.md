@@ -19,4 +19,14 @@ Implemented interactions:
 
 Note: User-interface is still in a beta-version. Till now the focus was to immplement functionalities.
 
-This project was created in Processing
+
+# Author: 
+Olivier Niklaus
+
+# Built with:
+[Processing 3] (https://processing.org/)
+
+[Unfolding] (http://unfoldingmaps.org/)
+
+[Grafica] (https://github.com/jagracar/grafica)
+
