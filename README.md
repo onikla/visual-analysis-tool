@@ -10,5 +10,6 @@ Interactions:
 	- Zoom and pan in Scatterplot and Worldmap
 	- select and highlight a group of points within the current scatterplot extend using "select points"
 
-Note: User-interface is still in a beta-version. Till now the focus was to immplement functionalities
+Note: User-interface is still in a beta-version. Till now the focus was to immplement functionalities.
+
 This project was created in Processing
