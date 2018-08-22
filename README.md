@@ -1,5 +1,5 @@
-# Visualization
-tool for visual analytic of the relationship between alcohol consumption and life-expectancy on country-level
+# Visual Analytic Tool
+tool for visual analysis of the relationship between alcohol consumption and life-expectancy on country-level
 
 This interfaces allows to visualize the geographical distribution of life-expectancy and alcohol consumption
 on country-level.
@@ -28,4 +28,6 @@ Olivier Niklaus
 * [Unfolding](http://unfoldingmaps.org/) - Library used for interactive Map
 * [Grafica](https://github.com/jagracar/grafica) - Library used for Scatterplot
 
+## Data:
+* From the [WHO report](http://apps.who.int/gho/data/node.main.A1026?lang=en) published in 2010
 
