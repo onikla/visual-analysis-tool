@@ -5,10 +5,10 @@ This interfaces allows to visualize the geographical distribution of life-expect
 on country-level.
 One can explore the relation of these variables using the scatterplot.
 Interactions:
-	- Click on points and the corresponding country will be highlighted. 
-	- Use the buttonbars to change the x- and y-axis in the scatterplot
-	- Zoom and pan in Scatterplot and Worldmap
-	- select and highlight a group of points within the current scatterplot extend using "select points"
+	/n	- Click on points and the corresponding country will be highlighted. 
+	/n	- Use the buttonbars to change the x- and y-axis in the scatterplot
+	/n	- Zoom and pan in Scatterplot and Worldmap
+	/n	- select and highlight a group of points within the current scatterplot extend using "select points"
 
 Note: User-interface is still in a beta-version. Till now the focus was to immplement functionalities.
 
