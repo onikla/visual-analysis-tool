@@ -17,16 +17,15 @@ Implemented interactions:
 	
 	- hover over Worldmap to find corresponding data in Scatterplot
 
-Note: User-interface is still in a beta-version. Till now the focus was to immplement functionalities.
+Note: User-interface is still in a beta-version. Till now the focus was on implementing functionalities and user-interactions.
 
 
-# Author: 
+## Author: 
 Olivier Niklaus
 
-# Built with:
-[Processing 3] (https://processing.org/)
+## Built with:
+* [Processing 3](https://processing.org/) - Integrated development environment (IDE) used
+* [Unfolding](http://unfoldingmaps.org/) - Library used for interactive Map
+* [Grafica](https://github.com/jagracar/grafica) - Library used for Scatterplot
 
-[Unfolding] (http://unfoldingmaps.org/)
-
-[Grafica] (https://github.com/jagracar/grafica)
 
